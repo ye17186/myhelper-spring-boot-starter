@@ -19,7 +19,7 @@
 
   <properties>
     <java.version>1.8</java.version>
-    <guava.version>27.1-jre</guava.version>
+    <guava.version>29.0-jre</guava.version>
     <swagger2.version>2.8.0</swagger2.version>
     <spring-cloud.version>Hoxton.RELEASE</spring-cloud.version>
   </properties>
